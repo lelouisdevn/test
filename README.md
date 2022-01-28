@@ -1,2 +1,2 @@
 # test
-testfornewgitpackage
+test for new git package
